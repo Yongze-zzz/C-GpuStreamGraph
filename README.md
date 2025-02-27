@@ -1,7 +1,8 @@
 
 
 ## Introduction
-Here is the code of paper "Out-of-Core GPU Memory Management for Incremental Graph Processing".
+Here is the code of paper "Efficient Graph Data Accesses for Out-of-Memory GPU Streaming
+Graph Processing".
 ## Software Requirements
 * CUDA == 11.4
 * GCC == 7.5.0
